@@ -7,6 +7,8 @@
 
 ## 😁HUBBY
 <details>
+
+<details>
   
 * LIKE TO COOK🥙
   
