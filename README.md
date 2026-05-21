@@ -3,3 +3,6 @@
 - gwapo sya
 - handsome
 - poor
+  * i love you
+  * i hate you
+    
