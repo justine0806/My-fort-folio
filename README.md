@@ -1,2 +1,1 @@
-# My-fort-folio
-for Justine cute
+Justine is a cute and smart IT student who stands out with her cheerful personality and passion for technology. She’s the type of person who can balance coding projects and school tasks while still looking effortlessly charming. With her friendly smile, stylish vibe, and hardworking attitude, she easily becomes someone people admire both in academics and in everyday life.
