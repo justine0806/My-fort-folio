@@ -3,17 +3,17 @@
 ## 😁HUBBY
 <details>
   
-* LIKE TO COOK
+* LIKE TO COOK🥙
   
-* LOVE TO READ
+* LOVE TO READ📕📖
   
-* LOVE TO LEASENING TO MUSIC
+* LOVE TO LEASENING TO MUSIC🎶
   
-* LOVE PLAYIONG BASKETBALL
+* LOVE PLAYIONG BASKETBALL🏀
 
-* LOVE PLAYING ML
+* LOVE PLAYING ML🎰🎰
 
-* LOVE BEING ALONE
+* LOVE BEING ALONE🙂‍↕️🙂‍↕️
   
   </details>
   
@@ -23,13 +23,13 @@
   <details>
   <summary><b>View Achievments Details</b></summary>
     
-  * top 1 global tigrel
+  * top 1 global tigrel😎
 
-  * varsity in being cute
+  * varsity in being cute😎
  
-  * champion for being cute
+  * champion for being cute😎
  
-  * All time champion in basketball
+  * All time champion in basketball😎
   
   
  </details>
