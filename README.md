@@ -9,6 +9,6 @@
  
     
     [Jusitine kamukha ko](https://www.imdb.com/name/nm7282447/)
-    [click me]
+    [click me](https://www.imdb.com/name/nm7282447/)
   
     
