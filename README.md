@@ -20,13 +20,12 @@
 * LOVE PLAYING ML🎰🎰
 
 * LOVE BEING ALONE🙂‍↕️🙂‍↕️
-  
-<details>
 
   <details>
  
 ## Achievments 
   <summary><b>View Achievments Details</b></summary>
+    <details>
     
   * top 1 global tigrel😎
 
