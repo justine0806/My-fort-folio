@@ -1,4 +1,4 @@
-# my port folio
+# **my port folio** [click mke](https://www.pep.ph/lifestyle/lifestyle/180272/joshua-garcia-pep-male-a-lister-a755-20240529-lfrm2)
 ## justine cut ##
 - gwapo sya
 - handsome
@@ -8,7 +8,7 @@
     [justine](http://example.com)
  
     
-    [click me][Jusitine kamukha ko](https://www.imdb.com/name/nm7282447/)
+   [Jusitine kamukha ko](https://www.imdb.com/name/nm7282447/)
     [click me](https://www.imdb.com/name/nm7282447/)
   
     
