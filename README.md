@@ -22,9 +22,11 @@
     
   * top 1 global tigrel
 
-  * varcity in bieng cute
+  * varsity in being cute
  
-  * champion for bieng cute
+  * champion for being cute
+ 
+  * All time champion in basketball
   
   
  </details>
