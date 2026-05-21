@@ -19,7 +19,7 @@
 
 * LOVE PLAYING ML🎰🎰
 
-* LOVE BEING ALONE🙂‍↕️🙂‍↕️
+* LOVE BEING ALONE🙂
 
   <details>
  
