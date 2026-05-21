@@ -1,21 +1,26 @@
 # Justine ✨
 
 ## About Me
-Hello! I’m Justine, a passionate and professional IT enthusiast with experience in technology, troubleshooting, and digital solutions. I enjoy learning new skills, exploring innovations, and creating efficient systems that improve productivity and user experience.
+Hi, I’m Justine — a cute and professional IT enthusiast with experience in technology, web design, and programming. Passionate about innovation and continuous learning, I enjoy creating modern, user-friendly, and efficient digital solutions.
 
 ## Skills
-- Technical Support & Troubleshooting
-- Basic Programming & Coding
-- System Management
-- Networking Fundamentals
-- Problem Solving
-- Communication & Teamwork
+- 🌐 HTML & CSS Design
+- 🐍 Python Programming
+- 💻 Technical Support & Troubleshooting
+- ⚡ System Management
+- 🎨 Responsive Web Development
+- 🤝 Communication & Team Collaboration
 
 ## Experience
-With experience in the IT field, I have developed strong technical and analytical skills. I am hardworking, adaptable, and dedicated to continuous growth in technology and innovation.
+I have experience working with IT-related projects, improving technical skills in web development and programming. My knowledge in CSS helps me design clean and responsive interfaces, while Python allows me to build smart and functional solutions.
 
 ## Personality
-Cute, confident, friendly, and professional. I believe that success comes from combining knowledge, creativity, and a positive attitude. 💻✨
+Friendly, confident, hardworking, and creative. I believe professionalism and personality can work together to create positive experiences and successful projects. 💖
 
-## Goal
-To grow as an IT professional and contribute innovative ideas and solutions in the tech industry.
+## Goals
+- To become a skilled IT professional
+- To develop creative and efficient applications
+- To continuously grow in the tech industry 🚀
+
+## Favorite Quote
+> “Code with passion, create with purpose.” 💻✨
