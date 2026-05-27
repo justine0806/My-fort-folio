@@ -41,3 +41,7 @@
 |User|Nickname|
 |-------|----------|
 |**Justine cute**|**Kinong**|
+
+# PROJECTS
+- [IT1C_PythonProject_QUEUING](https://github.com/daylighttg/IT1C_PythonProject_QUEUING)
+![Screenshot](images/Screenshot.png)
