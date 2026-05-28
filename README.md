@@ -31,7 +31,8 @@
  
 # Achievments 
   <summary><b>View Achievments Details</b></summary>
-    <details>
+    
+  <details>
     
   * top 1 global tigrel😎
 
@@ -48,6 +49,4 @@
 |-------|----------|
 |**Justine cute**|**Kinong**|
 
-# PROJECTS
-- [IT1C_PythonProject_QUEUING](https://github.com/daylighttg/IT1C_PythonProject_QUEUING)
-![Screenshot](images/Screenshot.png)
+
