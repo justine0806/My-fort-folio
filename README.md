@@ -26,6 +26,8 @@
 * LOVE BEING ALONE🙂
 
   <details>
+
+  <details>
  
 # Achievments 
   <summary><b>View Achievments Details</b></summary>
