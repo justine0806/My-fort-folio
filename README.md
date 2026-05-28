@@ -8,7 +8,6 @@
 - [IT1C_PythonProject_QUEUING](https://github.com/daylighttg/IT1C_PythonProject_QUEUING)
 ![Screenshot](images/Screenshot.png)
 
-  <details>
 
 # 😁HUBBIES
 
@@ -28,7 +27,6 @@
 
   <details>
 
-  <details>
  
 # Achievments 
   <summary><b>View Achievments Details</b></summary>
@@ -50,4 +48,4 @@
 |-------|----------|
 |**Justine cute**|**Kinong**|
 
-
+ </details>
