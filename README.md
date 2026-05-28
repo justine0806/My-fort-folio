@@ -1,6 +1,8 @@
 # **❤️IT1C_Portfolio_Dela Peña**
 ## * JUSTINE SEM S DELA PENA
-?[justine pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKpypNEOcTMDdfCyutbc22vzzXia53-lvFWOaSq0Sb6DwAw_DWeDbXZ71&s=10)
+# PROJECTS
+- [IT1C_PythonProject_QUEUING](https://github.com/daylighttg/IT1C_PythonProject_QUEUING)
+![Screenshot](images/Screenshot.png)
 
 # DESCRIPTION
 
