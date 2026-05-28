@@ -1,51 +1,43 @@
 # **❤️IT1C_Portfolio_Dela Peña**
-## * JUSTINE SEM S DELA PENA
-# DESCRIPTION
+ * 👨‍💻 Name: *Justine Sem S. Dela Pena*
+ * Location: *Palawan, Philippines*
+ * Course / Section: BSIT
 
-😉Hi my name is Justine Sem S. Dela Pena, 18 year old and studieng in Fbc, and taking BSIT 1st year and loving to learn coding and hansome man and I'm just a humble man love playing basketball,playiong ml and I am top 1 baranggay in my town and have a nice face
+# 🧑‍💼DESCRIPTION
+
+Hi, I am **Justine Sem S. Dela Peña**, a **Bachelor of Science in Information Technology (BSIT)** student. This portfolio is created for our **CPROG 2** subject as a compilation of my programming projects, activities, and documentation related to programming and software development.
+
+This portfolio represents the knowledge and skills that I learned throughout the course. It contains different exercises, projects, and coding activities that helped me improve my understanding of programming concepts, problem-solving, debugging, and system development.
+
+Through these projects and experiences, I was able to enhance my critical thinking, logical reasoning, and technical abilities in the field of Information Technology. Each project included in this portfolio reflects my effort, creativity, and continuous learning as a student programmer.
 
 # PROJECTS
 - [IT1C_PythonProject_QUEUING](https://github.com/daylighttg/IT1C_PythonProject_QUEUING)
 ![Screenshot](images/Screenshot.png)
 
 
-# 😁HUBBIES
+## 🤓 **Skill**
 
-  <details>
+<details>
   
-* LIKE TO COOK🥙
+  * **Basic Programming Skills**
   
-* LOVE TO READ📕📖
-  
-* LOVE TO LEASENING TO MUSIC🎶
-  
-* LOVE PLAYIONG BASKETBALL🏀
-
-* LOVE PLAYING ML🎰🎰
-
-* LOVE BEING ALONE🙂
-
-  <details>
-
- 
-# Achievments 
-  <summary><b>View Achievments Details</b></summary>
+  * **Time Management**
     
-  <details>
-    
-  * top 1 global tigrel😎
+  * **Adaptability and Willingness to Learn**
+  
+</details>
 
-  * varsity in being cute😎
- 
-  * champion for being cute😎
- 
-  * All time champion in basketball😎
+# 💻 **Technologies use**
+
+<details>
+
+* **Python**
+* **Sqlite**
   
-  
- </details>
+</details>
 
 |User|Nickname|
-|-------|----------|
-|**Justine cute**|**Kinong**|
+|-------|---------|
+|**Justine**|**Kinong😅**|
 
- </details>
